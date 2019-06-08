@@ -1,0 +1,109 @@
+- [ ] What's New in Xcode 11
+- [ ] Accessibility Lessons
+- [ ] Advances in macOS Security
+- [ ] Reaching the Big Screen with AirPlay 2
+- [ ] Creating Great Localized Experiences with Xcode 11
+- [ ] Using Core Data With CloudKit
+- [ ] What's New in Swift
+- [ ] System Extensions and DriverKit
+- [ ] Introducing SwiftUI: Building Your First App
+- [ ] Getting Started with Xcode
+- [ ] Introducing Desktop-class Browsing on iPad
+- [ ] Modern Rendering with Metal
+- [ ] Working with USD
+- [ ] Introducing SiriKit Media Intents
+- [ ] Introducing Low-Latency HLS
+- [ ] Introducing iPad Apps for Mac
+- [ ] Introducing SF Symbols
+- [ ] All About Notarization
+- [ ] What's New in Machine Learning
+- [ ] Creating Independent Watch Apps
+- [ ] What’s New in AppKit for macOS
+- [ ] Core ML 3 Framework
+- [ ] Introducing RealityKit and Reality Composer
+- [ ] Swift Playgrounds 3
+- [ ] Mastering the Living Room With tvOS
+- [ ] Introducing Multiple Windows on iPad
+- [ ] Introducing ARKit 3
+- [ ] What’s New in iOS and macOS Design
+- [ ] Introducing Sign In with Apple
+- [ ] What's New in Core Location
+- [ ] Introducing Parameters for Shortcuts
+- [ ] Create ML for Object Detection and Sound Classification
+- [ ] Advances in App Background Execution
+- [ ] Understanding Images in Vision Framework
+- [ ] Implementing Dark Mode on iOS
+- [ ] Building Apps with RealityKit
+- [ ] ResearchKit and CareKit Reimagined
+- [ ] SwiftUI Essentials
+- [ ] Advances in Collection View Layout
+- [ ] Delivering Optimized Metal Apps and Games
+- [ ] SwiftUI on watchOS
+- [ ] Designing for Privacy
+- [ ] Advances in UI Data Sources
+- [ ] Exploring New Data Representations in HealthKit
+- [ ] Adopting Swift Packages in Xcode
+- [ ] Cryptography and Your Apps
+- [ ] Introducing PencilKit
+- [ ] App Distribution – From Ad-hoc to Enterprise
+- [ ] What's New in Apple File Systems
+- [ ] Designing Award Winning Apps and Games
+- [ ] Bringing People into AR
+- [ ] What's New in Clang and LLVM
+- [ ] Modernizing Your UI for iOS 13
+- [ ] Expanding the Sensory Experience with Core Haptics
+- [ ] Metal for Pro Apps
+- [ ] Advances in Camera Capture & Photo Segmentation
+- [ ] Creating Swift Packages
+- [ ] Getting Started with Instruments
+- [ ] Data Flow Through SwiftUI
+- [ ] Font Management and Text Scaling
+- [ ] Introducing Combine and Advances in Foundation
+- [ ] Debugging in Xcode 11
+- [ ] Creating Great Apps Using Core ML and ARKit
+- [ ] Delivering Intuitive Media Playback with AVKit
+- [ ] Advances in Networking, Part 1
+- [ ] Testing in Xcode
+- [ ] What’s New in Authentication, Safari, and WebKit
+- [ ] Building AR Experiences with Reality Composer
+- [ ] Create ML for Activity, Text, and Recommendations
+- [ ] Combine in Practice
+- [ ] Building Collaborative AR Experiences
+- [ ] Modern Swift API Design
+- [ ] Integrating SwiftUI
+- [ ] Binary Frameworks in Swift
+- [ ] Making Apps with Core Data
+- [ ] Advances in Natural Language Framework
+- [ ] Improving Battery Life and Performance
+- [ ] Text Recognition in Vision Framework
+- [ ] What's New in App Store Connect
+- [ ] Mastering Xcode Previews
+- [ ] Advances in Networking, Part 2
+- [ ] Taking iPad Apps for Mac to the Next Level
+- [ ] Bringing OpenGL Apps to Metal
+- [ ] What’s New in MapKit and MapKit JS
+- [ ] Advances in AR Quick Look
+- [ ] Network Extensions for the Modern Mac
+- [ ] Building Custom Views with SwiftUI
+- [ ] Getting the Most Out of Simulator
+- [ ] Accessibility in SwiftUI
+- [ ] Optimizing Storage in Your App
+- [ ] Great Developer Habits
+- [ ] Drawing Classification and One-Shot Object Detection in Turi Create
+- [ ] Ray Tracing with Metal
+- [ ] In-App Purchases and Using Server-to-Server Notifications
+- [ ] What’s New in Managing Apple Devices
+- [ ] Designing Great ML Experiences
+- [ ] Developing a Great Profiling Experience
+- [ ] Subscription Offers Best Practices
+- [ ] Adding Indoor Maps to your App and Website
+- [ ] SwiftUI On All Devices
+- [ ] What's New in Core Bluetooth
+- [ ] Metal for Machine Learning
+- [ ] Getting the Most out of Multitasking
+- [ ] Modeling in Custom Instruments
+- [ ] Core NFC Enhancements
+- [ ] Integrating with Siri Event Suggestions
+- [ ] Optimizing App Launch
+- [ ] Designing for Adverse Network and Temperature Conditions
+- [ ] Designing and Building Great Shortcut 
