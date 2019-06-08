@@ -106,4 +106,4 @@
 - [ ] What’s New in iOS and macOS Design
 - [ ] What’s New in Managing Apple Devices
 - [ ] What’s New in MapKit and MapKit JS
-- [ ] Working with USD
+- [ ] Working with USDZ
