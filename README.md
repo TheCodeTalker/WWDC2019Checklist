@@ -66,7 +66,7 @@
 - [ ] Introducing SF Symbols
 - [ ] Introducing Sign In with Apple
 - [ ] Introducing SiriKit Media Intents
-- [ ] Introducing SwiftUI: Building Your First App
+- [x] Introducing SwiftUI: Building Your First App
 - [ ] Making Apps with Core Data
 - [ ] Mastering the Living Room With tvOS
 - [ ] Mastering Xcode Previews
