@@ -84,7 +84,7 @@
 - [ ] ResearchKit and CareKit Reimagined
 - [ ] Subscription Offers Best Practices
 - [ ] Swift Playgrounds 3
-- [ ] SwiftUI Essentials
+- [x] SwiftUI Essentials
 - [ ] SwiftUI On All Devices
 - [ ] SwiftUI on watchOS
 - [ ] System Extensions and DriverKit
