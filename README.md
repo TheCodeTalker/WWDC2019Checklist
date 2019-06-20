@@ -100,7 +100,7 @@
 - [ ] What's New in Core Location
 - [ ] What's New in Machine Learning
 - [ ] What's New in Swift
-- [ ] What's New in Xcode 11
+- [x] What's New in Xcode 11
 - [ ] What’s New in AppKit for macOS
 - [ ] What’s New in Authentication, Safari, and WebKit
 - [ ] What’s New in iOS and macOS Design
