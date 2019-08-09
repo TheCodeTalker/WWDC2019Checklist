@@ -86,7 +86,7 @@
 - [ ] Swift Playgrounds 3
 - [x] SwiftUI Essentials
 - [ ] SwiftUI On All Devices
-- [ ] SwiftUI on watchOS
+- [x] SwiftUI on watchOS
 - [ ] System Extensions and DriverKit
 - [ ] Taking iPad Apps for Mac to the Next Level
 - [ ] Testing in Xcode
@@ -103,7 +103,7 @@
 - [x] What's New in Xcode 11
 - [ ] What’s New in AppKit for macOS
 - [ ] What’s New in Authentication, Safari, and WebKit
-- [ ] What’s New in iOS and macOS Design
+- [x] What’s New in iOS Design
 - [ ] What’s New in Managing Apple Devices
 - [ ] What’s New in MapKit and MapKit JS
 - [ ] Working with USDZ
