@@ -48,7 +48,7 @@
 - [ ] Getting Started with Xcode
 - [ ] Getting the Most out of Multitasking
 - [ ] Getting the Most Out of Simulator
-- [ ] Great Developer Habits
+- [x] Great Developer Habits
 - [ ] Implementing Dark Mode on iOS
 - [ ] Improving Battery Life and Performance
 - [ ] In-App Purchases and Using Server-to-Server Notifications
