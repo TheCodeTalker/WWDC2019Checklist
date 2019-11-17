@@ -1,7 +1,7 @@
 - [ ] Accessibility in SwiftUI
 - [ ] Accessibility Lessons
 - [ ] Adding Indoor Maps to your App and Website
-- [ ] Adopting Swift Packages in Xcode
+- [x] Adopting Swift Packages in Xcode
 - [ ] Advances in App Background Execution
 - [ ] Advances in AR Quick Look
 - [ ] Advances in Camera Capture & Photo Segmentation
